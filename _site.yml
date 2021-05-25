@@ -1,0 +1,31 @@
+name: "Prey Nmix Model"
+output_dir: "docs"
+navbar:
+  title: "Prey Specis Nmix model selection"
+  left:
+  - text: "Home"
+    href: index.html
+  - text: "AmericanPika"
+    href: nMixResults_7_AmericanPika.html
+  - text: "BeldingsGroundSquirrel"
+    href: nMixResults_7_BeldingsGroundSquirrel.html
+  - text: "Chipmunk"
+    href: nMixResults_7_Chipmunk.html
+  - text: "DouglasSquirrel"
+    href: nMixResults_7_DouglasSquirrel.html
+  - text: "GoldenMantledGroundSquirrel"
+    href: nMixResults_7_GoldenMantledGroundSquirrel.html
+  - text: "lagomorph"
+    href: nMixResults_7_lagomorph.html
+  - text: "rodent"
+    href: nMixResults_7_rodent.html
+  - text: "WhiteTailedJackrabbit"
+    href: nMixResults_7_WhiteTailedJackrabbit.html
+  - text: "Woodrat"
+    href: nMixResults_7_Woodrat.html
+  - text: "YellowBelliedMarmot"
+    href: nMixResults_7_YellowBelliedMarmot.html
+output:
+  html_document:
+    theme: cosmo
+
